@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| Author | Stefanos |
+| Author | Stefanos Dimitrakopoulos |
 | Project | Home Lab #1 |
 | Last updated | 2026-08-19 |
 | Tools | Oracle VirtualBox, Ubuntu Server 26.04 LTS (x3) |
