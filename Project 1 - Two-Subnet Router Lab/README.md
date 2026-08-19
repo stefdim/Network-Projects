@@ -1,7 +1,5 @@
 # Two-Subnet Network with a Linux Router
 
-**Status:** Complete | **Environment:** Oracle VirtualBox (host: Windows 11) | **Cost:** $0
-
 ## Document Control
 
 | Field | Value |
